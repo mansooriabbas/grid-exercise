@@ -4,33 +4,33 @@ body {
 }
 
 .box-one {
-    display: grid;
-    grid-template-columns: 100px 100px 100px;
-    gap: 10px;
+  display: grid;
+  grid-template-columns: 100px 100px 100px;
+  gap: 10px;
 }
 
 .box {
-    background-color: #444;
-    color: #FFFFFF;
-    border-radius: 7px;
-    padding: 20px;
-    font-size: 150%;
+  background-color: #444;
+  color: #ffffff;
+  border-radius: 7px;
+  padding: 20px;
+  font-size: 150%;
 }
 
 /* box-two-rules */
 
 .box-two {
-    display: grid;
-    grid-template-columns: 100px 100px 100px;
-    gap: 10px;
+  display: grid;
+  grid-template-columns: 100px 100px 100px;
+  gap: 10px;
 }
 
 .box2 {
-    background-color: aqua;
-    color: #333;
-    border-radius: 7px;
-    padding: 20px;
-    font-size: 150%;
+  background-color: aqua;
+  color: #333;
+  border-radius: 7px;
+  padding: 20px;
+  font-size: 150%;
 }
 
 .A {
